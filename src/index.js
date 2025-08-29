@@ -8,6 +8,9 @@ import Garage from './components/Garage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Sample from './components/Sample';
 import MainContent from './components/MainContent';
+import Introduction from './components/Introduction';
+import UseEffect from './components/UseEffect';
+import StatePractice from './components/StatePractice';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -17,6 +20,9 @@ root.render(
     {/* <Garage/> */}
     {/* <Sample/> */}
     <MainContent/>
+    {/* <UseEffect/> */}
+    {/* <StatePractice/> */}
+    {/* <Introduction/> */}
   </React.StrictMode>
 );
 

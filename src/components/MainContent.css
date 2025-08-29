@@ -1,0 +1,8 @@
+body{
+     background-image: url(image.jpg); 
+
+    background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; /* keeps image fixed when scrolling */
+  background-size: cover; 
+ }  
