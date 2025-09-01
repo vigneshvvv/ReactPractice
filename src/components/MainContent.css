@@ -1,8 +1,18 @@
-body{
-     background-image: url(image.jpg); 
+.h1basic {
+  color: red;
+}
 
-    background-repeat: no-repeat;
+body {
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed; /* keeps image fixed when scrolling */
-  background-size: cover; 
- }  
+  background-size: cover;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}/*# sourceMappingURL=MainContent.css.map */

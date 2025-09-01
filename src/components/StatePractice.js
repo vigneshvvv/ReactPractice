@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import './MainContent.css'
+import '../styles/style.scss';
 
 function StatePractice(){
     const [data, setData] = useState(0);

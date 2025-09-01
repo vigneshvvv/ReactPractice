@@ -19,7 +19,8 @@ root.render(
   <React.StrictMode>
     {/* <Garage/> */}
     {/* <Sample/> */}
-    <MainContent/>
+    {/* <MainContent/> */}
+    <App/>
     {/* <UseEffect/> */}
     {/* <StatePractice/> */}
     {/* <Introduction/> */}

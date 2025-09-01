@@ -1,0 +1,12 @@
+$pri-color : black;
+$main-color: blue;
+
+.h1basic{
+    color: $main-color;
+}
+
+@mixin flex-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
