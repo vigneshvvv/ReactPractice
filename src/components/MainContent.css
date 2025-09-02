@@ -1,5 +1,5 @@
-.h1basic {
-  color: red;
+/* .h1basic {
+  color: blue;
 }
 
 body {
@@ -7,12 +7,13 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed; /* keeps image fixed when scrolling */
-  background-size: cover;
-}
+  /* background-size: cover; */
+/* } */
 
-h1 {
+/* h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: red;
-}/*# sourceMappingURL=MainContent.css.map */
+  color: blue; */
+/* }  */
+/*# sourceMappingURL=MainContent.css.map */

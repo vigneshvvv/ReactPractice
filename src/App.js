@@ -31,6 +31,7 @@ function App() {
         </li>
         <li class="nav-item">
           <Link class="nav-link" to="/home">Table Data</Link>
+          {/* <a class="nav-link" href="/home">Table Data</a> */}
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Pricing</a>

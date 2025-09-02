@@ -41,7 +41,7 @@ function MainContent(){
 
     return(
         <>
-        <h1>This is smaple {main} page</h1>
+        <h1>This is sample {main} page</h1>
         {fileInfo !== undefined && fileInfo !== null ?  <MainContentTwo fileInfo = {fileInfo}/> : null}
         <h1>The given input count is {count}</h1>
         <h1> The intial color is {used}</h1>

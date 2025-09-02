@@ -11,6 +11,8 @@ import MainContent from './components/MainContent';
 import Introduction from './components/Introduction';
 import UseEffect from './components/UseEffect';
 import StatePractice from './components/StatePractice';
+import About from './mernstack/About';
+import TableComponent from './TableComponent/TableComponent';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -20,7 +22,9 @@ root.render(
     {/* <Garage/> */}
     {/* <Sample/> */}
     {/* <MainContent/> */}
-    <App/>
+    {/* <App/> */}
+    {/* <About/> */}
+    <TableComponent/>
     {/* <UseEffect/> */}
     {/* <StatePractice/> */}
     {/* <Introduction/> */}
